@@ -1,0 +1,11 @@
+Python 3.8+
+
+numpy
+
+scipy
+
+pandas
+
+streamlit
+
+plotly
